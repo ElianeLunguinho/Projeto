@@ -1,0 +1,48 @@
+body {
+   background-color: #1c1c1c;
+   color: #ffffff;
+   font-family: monospace;
+   padding: 24px;
+} 
+
+.title {
+    font-size: 48px;
+    color: #00ff7f;
+}
+
+.list-iten {
+    margin-bottom: 24px;
+    font-size: 24px;  
+}
+
+input: {
+    heght: 48px
+    background-color: transparent;
+    Color: #White;
+    border-color: #00ff7f;
+    border-radius: 4px;
+    font-size: 16px
+    padding: 8px
+
+}
+.add- task-button {
+font-size: 16px;
+padding: 14px;
+background-color: #228b22;
+border-width: 0px;
+border-radius: 4px;
+Color: #White;
+font-Weight: bold; 32px;
+font-family: monospace;
+
+}
+
+   
+  
+
+
+
+
+
+
+
